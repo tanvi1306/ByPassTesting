@@ -1,5 +1,4 @@
 # ByPassTesting
-# ByPassTesting
 Overview
 This project focuses on Client-Side Web Applications Testing (Bypass Testing) by manipulating HTTP request data to bypass client-side validation and evaluate the application's response to tampered or corrupted inputs. The aim is to identify potential vulnerabilities by assessing the system’s resilience to altered input.
 
