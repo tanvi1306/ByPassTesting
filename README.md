@@ -10,15 +10,15 @@ Tools Used
 Burp Suite Community Edition: Intercepted HTTP traffic to manipulate request data, bypass validation, and assess server response.
 Selenium: Automated the web browser to simulate user interactions and execute tests using Java.
 
-Team Contributions
-Saloni Maheshwari
-Designed and executed test cases for:
-Password validation during user registration.
-ISBN validation during book addition.
-Book Stock value test during book addition.
+Team Contributions<br/>
+Saloni Maheshwari<br/>
+Designed and executed test cases for:<br/>
+Password validation during user registration.<br/>
+ISBN validation during book addition.<br/>
+Book Stock value test during book addition.<br/>
 
-Tanvi Motwani
-Designed and executed test cases for:
-Email validation during user registration.
-Availability and stock value type testing for books.
-Issue date validation during book issuance.
+Tanvi Motwani<br/>
+Designed and executed test cases for:<br/>
+Email validation during user registration.<br/>
+Availability and stock value type testing for books.<br/>
+Issue date validation during book issuance.<br/>
